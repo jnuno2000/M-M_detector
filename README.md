@@ -1,2 +1,2 @@
-# M-M_detector
+# MnM_detector
 detector_of M&amp;Ms
